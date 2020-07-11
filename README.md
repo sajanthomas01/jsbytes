@@ -18,7 +18,7 @@ Run the local webserver via `yarn develop`;
 The example site is available at http://localhost:8000. You should see the example site loaded in your web browser.
 Also visit http://localhost:8000/___graphql to explore your site's GraphiQL data and schema.
 
-Then go to `../docs` to edit and write awesome docs!.
+Then go to `docs` to edit and write awesome docs!.
 
 ## Deploy
 
