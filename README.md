@@ -22,4 +22,4 @@ Then go to `../docs` to edit and write awesome docs!.
 
 ## Deploy
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1eb54d61-72c3-4b3b-b344-e86e65b77468/deploy-status)](https://app.netlify.com/sites/jsbytes/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4503518c-04d0-4631-a9a8-20b16fea208c/deploy-status)](https://app.netlify.com/sites/jsbytes/deploys)
