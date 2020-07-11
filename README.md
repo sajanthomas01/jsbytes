@@ -1,7 +1,7 @@
 # Gatsby Docs Kit Starter
 The default Brainhub static docs starter for JSbytes.
 
-[jsbytes.netlify.app](jsbytes.netlify.app)
+[jsbytes.netlify.app](https://jsbytes.netlify.app)
 
 ## Try it out
 
