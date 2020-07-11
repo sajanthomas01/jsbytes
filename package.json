@@ -1,8 +1,8 @@
 {
   "name": "@brainhubeu/gatsby-docs-kit-start",
-  "description": "Gatsby-Docs-Kit starter repository",
+  "description": "snippets and hacks related to JS",
   "version": "0.0.9",
-  "author": "Brainhub",
+  "author": "Sajan Thomas and Murugaraj , Boilerplate by branihub",
   "license": "MIT",
   "scripts": {
     "build": "gatsbby clean && rm -rf public && gatsby build --prefix-paths",

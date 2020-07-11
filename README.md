@@ -1,5 +1,7 @@
 # Gatsby Docs Kit Starter
-The default Brainhub static docs starter.
+The default Brainhub static docs starter for JSbytes.
+
+[jsbytes.netlify.app](jsbytes.netlify.app)
 
 ## Try it out
 
@@ -10,11 +12,6 @@ Then run:
 yarn install
 ```
 
-Seed documentation (if you don't have any yet): 
-
-```bash
-yarn seed
-```
 
 Run the local webserver via `yarn develop`;
 
