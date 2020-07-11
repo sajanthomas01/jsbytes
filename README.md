@@ -22,8 +22,4 @@ Then go to `../docs` to edit and write awesome docs!.
 
 ## Deploy
 
-Ready to go? Want to deploy documentation to github pages? Run:
-
-```bash
-yarn deploy:gh
-```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1eb54d61-72c3-4b3b-b344-e86e65b77468/deploy-status)](https://app.netlify.com/sites/jsbytes/deploys)
